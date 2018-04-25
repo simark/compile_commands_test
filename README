@@ -1,3 +1,3 @@
 To build:
 
-  $ sh build-all.sh
+  $ sh build.sh
